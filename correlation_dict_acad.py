@@ -12,7 +12,6 @@ nb_sens = {
     "appendicite": 1,
     "hélicoptère": 1,
     "chlorophylle": 1,
-    "oxymètre": 1,
     "glace": 8,
     "carte": 12,
     "chef": 9,
